@@ -92,6 +92,7 @@ The nf-core/atacseq pipeline comes with documentation about the pipeline, found 
 3. [Running the pipeline](docs/usage.md)
 4. [Output and how to interpret the results](docs/output.md)
 5. [Troubleshooting](https://nf-co.re/usage/troubleshooting)
+6. [Deploy to Seven Bridges](docs/sevenbridges.md)
 
 ## Credits
 
